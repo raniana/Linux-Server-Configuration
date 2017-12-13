@@ -28,6 +28,7 @@
 * The virtual host was enabled from the terminal. 
 * The .wsgi file was created to serve the flask app and placed in the Catalog repo.
 * The Apache server was restarted.
+* The sqlalchemy engine URL was modified in the .py files to connect to the local postgresql data base.
 * The Catalog data base was populated with data using populatedatabase.py file.
 * Access to .git directory through the website was disabled by placing .htaccess file in the .git directory.
 
@@ -36,6 +37,7 @@
 * Udacity Forum
 * https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
 * https://stackoverflow.com/questions/6142437/make-git-directory-web-inaccessible
+* http://docs.sqlalchemy.org/en/latest/core/engines.html
 
 ## Local key is loacted on file :
 
