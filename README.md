@@ -12,7 +12,7 @@
 * The same settings were applied to the instance's Firewall on the lightsail website.
 * The private key of the ubuntu user was downloaded from the website and used to ssh through the terminal.
 * A new user 'grader' was created and given sudo priviledge.
-* A key pair was created to grant access for this user.
+* A key pair was created ssh-keygen tool, to grant access for this user.
 * Apache HTTP server was installed.
 * Python 3 mod-wsgi installed.
 * libapache2-mod-wsgi installed.
