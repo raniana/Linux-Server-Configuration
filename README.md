@@ -1,8 +1,8 @@
 # Linux-Server-Configuration project
 
--IP address of Lightsail instance: 52.15.210.121
--SSH port: 2200
--Web App URL: http://ec2-52-15-210-121.us-east-2.compute.amazonaws.com/
+<p>IP address of Lightsail instance: 52.15.210.121
+<p>SSH port: 2200
+<p>Web App URL: http://ec2-52-15-210-121.us-east-2.compute.amazonaws.com/
 
 ## Summary of Software and Configuration Changes:
 
