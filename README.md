@@ -39,6 +39,6 @@
 * https://stackoverflow.com/questions/6142437/make-git-directory-web-inaccessible
 * http://docs.sqlalchemy.org/en/latest/core/engines.html
 
-## Local key is loacted on file :
+## Local key is loacted on :
 
 /home/grader/.ssh/authorized_keys
